@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(247, 247, 247);
+    background-color: white;
 }
 .title{
     color: rgb(224,63,51);
@@ -18,7 +18,7 @@ body{
     color: rgb(224,63,51);
     text-align: center;
     padding: 150px 0;
-    border: solid 3px rgb(224,63,51) ;
+    /* border: solid 3px rgb(224,63,51) ; */
 
 }
 .jumbotron-fluid{
@@ -41,12 +41,13 @@ body{
 
 }
 .Philosophy{
-    color: rgb(224,63,51);
+    color: white;
     text-align: center;
     padding: 50px 0;
     font-size: 20px;
     width: 100%;
     margin: 0 auto;
+    background-color:rgb(224,63,51);
     border: solid 3px rgb(224,63,51) ;
 }
 
