@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(247, 247, 247);
+}
+.title{
+    color: rgb(224,63,51);
+    text-align: center;
+    padding-top: 100px;
+}
+.text{
+    color: rgb(224,63,51);
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+    width: 60%;
+    margin: 0 auto;
+}
+.aboutTitle{
+    color: rgb(224,63,51);
+    text-align: center;
+    padding: 150px 0;
+    border: solid 3px rgb(224,63,51) ;
+
+}
+.jumbotron-fluid{
+    background-color: rgb(224,63,51);
+}
+.about{
+    margin-top: 100px;
+    width: 60%;
+    /* border: solid black 3px */
+
+}
+.textFull{
+    color: rgb(224,63,51);
+    text-align: center;
+    padding: 50px 0 ;
+    font-size: 20px;
+    width: 100%;
+    margin: 0 auto;
+
+
+}
+.Philosophy{
+    color: rgb(224,63,51);
+    text-align: center;
+    padding: 50px 0;
+    font-size: 20px;
+    width: 100%;
+    margin: 0 auto;
+    border: solid 3px rgb(224,63,51) ;
+}
+
+.slogan{
+    color:white;
+    text-align: center;
+}
+.joinUs{
+    background-color:rgb(224,63,51);
+    color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.joinUs:hover{
+    color:rgb(224,63,51);
+    background-color: white;
+}
+.jumbotron{
+    margin: 0;
+    border-radius: 0px;
+    background-image: url('./Images/bg.jpg'); 
+    background-size:cover;
+    padding:300px 0 300px 0;
+}
