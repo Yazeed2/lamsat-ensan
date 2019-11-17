@@ -49,6 +49,7 @@ body{
     margin: 0 auto;
     background-color:rgb(224,63,51);
     border: solid 3px rgb(224,63,51) ;
+    border-radius: 10px;
 }
 
 .slogan{
@@ -76,4 +77,27 @@ body{
     color: rgb(224,63,51);
     background-color:rgb(247, 247, 247);
 
+}
+.list{
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+li{
+    list-style-type: none;
+}
+.subtitle{
+    color: white;
+    text-align: center;
+
+    padding: 50px 0;
+}
+.piont{
+    background-color:rgb(224,63,51);
+margin: 50px 0 ;
+padding: 20px 0 ;
+border-radius: 10px;
+}
+.iconcolor{
+    color: white;
 }
