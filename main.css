@@ -74,6 +74,7 @@ body{
     border-radius: 0px;
     background-image: url('./Images/bg.jpg'); 
     background-size:cover;
+    background-position: center center;
     padding:300px 0 300px 0;
 }
 .footbtn{
@@ -113,3 +114,14 @@ img{
     margin-left: auto;
     border-radius: 10px;
 }
+
+/* @media only screen and (max-width: 760px) {
+  .jumbotron{
+      background-size: cover;
+      background-repeat: no-repeat;
+      padding:40px 20px;
+  }
+  .slogan{
+    font-size: 30px;
+  }
+  } */
