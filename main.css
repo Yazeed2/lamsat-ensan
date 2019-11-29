@@ -115,13 +115,23 @@ img{
     border-radius: 10px;
 }
 
-/* @media only screen and (max-width: 760px) {
-  .jumbotron{
-      background-size: cover;
-      background-repeat: no-repeat;
-      padding:40px 20px;
+.delay-1 {
+    animation-delay: .50s;
+    }
+    .delay-2 {
+    animation-delay: 1s;
+    }
+    .delay-3 {
+    animation-delay: 1.5s;
+    }
+    .delay-4 {
+    animation-delay: 2s;
+    } 
+    .delay-5 {
+        animation-delay: 2.5s;
+        }
+@media only screen and (max-width: 760px) {
+  .show{
+      display: inline;
   }
-  .slogan{
-    font-size: 30px;
   }
-  } */
